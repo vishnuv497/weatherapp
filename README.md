@@ -1,4 +1,4 @@
-git clone 
+git clone https://github.com/vishnuv497/weatherapp.git
 
 cd weatherapp
 
